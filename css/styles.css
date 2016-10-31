@@ -1,0 +1,81 @@
+body
+{
+	border-left: 4px outset black;
+	border-right: 4px outset black;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100%;
+	background-color: Snow;
+	padding: 2pt 2pt 2pt 2pt;
+	width: 60%;
+	
+}
+	
+header
+{
+	display: flex;
+}
+
+h1, .logo
+{
+	display: inline-block;
+}
+
+.logo
+{
+	width: 64px;
+	height: 64px;
+}
+
+nav ul li a
+{
+	font-size: 18pt;
+}
+
+#tutorial-nav
+{
+	display: block;
+	float: left;
+	width: 20%;
+}
+
+#tutorials
+{
+	width: 80%;
+	float: right;
+}
+
+.tutheader
+{
+	color: black;
+}
+
+.tutheader:hover
+{
+	text-decoration: none;
+	color: black;
+}
+
+p
+{
+	font-size: 14pt;
+	padding: .5% .5% .5% .5%;
+}
+
+@media screen and (max-width: 600px)
+{
+	body
+	{
+		width: 100%;
+	}
+	
+	nav ul li a
+	{
+		font-size: 14pt;
+	}
+	
+	p 
+	{
+		font-size: 12pt;
+	}
+}
