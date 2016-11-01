@@ -1,0 +1,144 @@
+<HelpTopics>
+	<HelpTopic>
+		<Key>start</Key>
+		<Title>Start</Title>
+		<Text>
+			<p>
+				This series of brief tutorials will get you into the swing of using Auxionr! If at any point you get stuck, feel free to <a href="contact.php">email us</a> for help! Our real human beings (No robots!) will work with you to help you use Auxionr and to improve our product. We appriciate any and all feedback!
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>create</Key>
+		<Title>Create</Title>
+		<Text>
+			<p>
+				The first step in using Auxionr is usually to create an auction. This can be done from the "Auctions" tab of "Auctioneer Tools" screen or with the "New Auction" button. Once an auction is created, it will appear in the auction select menu. Auctions can be renamed in the Auctions tab of the Auctioneer Tools screen.
+			</p>
+			<img src="images/tutorials/create_auction_img.png"/>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>addsellers</Key>
+		<Title>Adding Sellers</Title>
+		<Text>
+			<p>
+				Adding sellers is done in the Auction Info Editor.
+			</p>
+			<img src="images/tutorials/menu_item_info_editor.png"/>
+			<img src="images/tutorials/add_seller.png"/>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>addbidders</Key>
+		<Title>Adding Bidders</Title>
+		<Text>
+			<p>
+				Adding bidders can be done in the "Add Bidders" screen or 
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>holdauction</Key>
+		<Title>Holding an Auction</Title>
+		<Text>
+			<p>
+				The hold auction screen is the screen you will use to actually hold an auction. On the Hold Auction screen, you can register bids. If you have an extra computer moniter plugged into your computer, you can also open a window that will give the chanter information on the item currently being auctioned.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>checkout</Key>
+		<Title>Checkout</Title>
+		<Text>
+			<p>
+				The checkout screen allows you to check bidders out as they leave the auction.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>export</Key>
+		<Title>Exporting Reports &amp; Information</Title>
+		<Text>
+			<p>
+				Currently, Auxionr can export auctions to text files and to printers. More features, such as exporting to spreadsheets and improved data formatting, are coming soon.
+			</p>
+			<p>
+				We recognize that many export formats and styles are not yet supported by Auxionr. If your preferred format, style, etc. is not supported, we urge you to <a href="contact.php">contact us</a> so that we can include it in the next patch.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>advanced</Key>
+		<Title>Advanced Features</Title>
+		<Text>
+			<p>
+				If you want to do more with Auxionr, there are a few more advanced features that, in order to make Auxionr easier to use, are disabled by default. To enable these advanced features, simply click the "Options" button in the top menu and choose which features to enable.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>networks</Key>
+		<Title>Networks</Title>
+		<Text>
+			<p>
+				If you would like to use multiple computers at once with Auxionr, this can be achieved through Auxionr's Network feature. Networking allows for one computer to run the main Auxionr program while other computers check in and out bidders at the same time.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>categories</Key>
+		<Title>Categories, Items, &amp; Mailers</Title>
+		<Text>
+			<p>
+				Auxionr's categories feature allows you to specify further details about your items and auctions, as well as to send out emails to bidders about future auctions. Auxionr will store bidder intrests between auctions so that you can easily record what past bidders were intrested in and alert them when auctions with similar items are taking place. This feature can involve somewhat more work.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>fontsize</Key>
+		<Title>Font Size</Title>
+		<Text>
+			<p>
+				The size at which to display all normal text in Auxionr. If you have trouble reading the text, you might want to increase the font size. If the text is irritataingly large, decrease the font size.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>extraauctioninfo</Key>
+		<Title>Extra Auction Info</Title>
+		<Text>
+			<p>
+				Auxionr can allow you to record all bids during an auction, not just the winning one. This way, if a bidder is unable to pay for what they bought, the next-highest bidder can take over.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>biddermessage</Key>
+		<Title>Bidder Message</Title>
+		<Text>
+			<p>
+				This is the message that bidders will see after they check in at an auction. "[name]" will be substituted with the bidder's name, and "[number]" will be substituted with the bidder number.
+			</p>
+		</Text>
+	</HelpTopic>
+	<HelpTopic>
+		<Key>troubleshooting</Key>
+		<Title>Troubleshooting</Title>
+		<Text>
+			<p>
+				Problems happen to everyone. If you've encountered an issue with Auxionr, here are some tips and suggestions to resolve it on your own.
+				<dl>
+					<dt></dt>
+					<dd></dd>
+					<dt></dt>
+					<dd></dd>
+				</dl>
+			</p>
+			<p>
+				If you are still having trouble with Auxionr, we encourage you to <a href="contact.php">contact us</a>.
+			</p>
+		</Text>
+	</HelpTopic>
+</HelpTopics>
+			
