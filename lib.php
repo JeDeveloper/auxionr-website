@@ -32,6 +32,6 @@ function printHelp($key)
 
 function printHelpShort($key)
 {
-	getHelpData($key)->printHelpShort(128);
+	getHelpData($key)->printHelpShort(192);
 }
 ?>
